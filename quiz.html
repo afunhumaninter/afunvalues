@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:400,700" rel="stylesheet">
+        <link href='style.css' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="x-icon" href="assets/icon.png">
+        <link rel="shortcut icon" type="x-icon" href="assets/icon.png">
+        <title>ConservaValues</title>
+        <meta property="og:ttl" content="600">
+        <meta property="og:site_name" content="ConservaValues.github.io">
+        <meta property="og:title" content="ConservaValues">
+        <meta property="og:type" content="website">
+        <meta property="og:description" content="ConservaValues is a political quiz aimed at cultural conservatives">
+        <meta property="og:url" content="https://afunhumaninter.github.io/conservavalues/">
+        <meta property="og:image" content="https://afunhumaninter.github.io/conservavalues/assets/previcon.png">
+        <meta property="og:image:width" content="1024">
+        <meta property="og:image:height" content="1024">
+        <meta name="theme-color" content="#000000" data-react-helmet="true">
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>ConservaValues</h1>
+        <hr>
+        <h2 style="text-align:center;" id="question-number">Loading...</h2>
+        <p class="question" id="question-text"></p>
+        <button class="button" onclick="next_question( 1.0)" style="background-color: #1b5e20;">Strongly Agree</button> <br>
+        <button class="button" onclick="next_question( 0.5)" style="background-color: #4caf50;">Agree</button> <br>
+        <button class="button" onclick="next_question( 0.0)" style="background-color: #bbbbbb;">Neutral/Unsure</button> <br>
+        <button class="button" onclick="next_question(-0.5)" style="background-color: #f44336;">Disagree</button> <br>
+        <button class="button" onclick="next_question(-1.0)" style="background-color: #b71c1c;">Strongly Disagree</button> <br>
+        <button class="small_button" onclick="prev_question()" id="back_button">Back</button>
+        <button class="small_button_off" id="back_button_off">Back</button><br>
+        <script type="application/javascript" src="scripts/quiz.js"></script>
+    </body>
+</html>

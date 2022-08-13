@@ -1,0 +1,542 @@
+[
+    {
+        "name": "Right-Wing Populism",
+        "stats": {
+            "radi": 45,
+            "econ": 35,
+            "stte": 65,
+            "natn": 70,
+            "conv": 75
+        }        
+    },
+    {
+        "name": "National Bolshevism",
+        "stats": {
+            "radi": 0,
+            "econ": 95,
+            "stte": 100,
+            "natn": 95,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "American Republicanism",
+        "stats": {
+            "radi": 50,
+            "econ": 25,
+            "stte": 65,
+            "natn": 65,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Trumpism",
+        "stats": {
+            "radi": 35,
+            "econ": 35,
+            "stte": 70,
+            "natn": 75,
+            "conv": 70
+        }        
+    },
+    {
+        "name": "Libertarian Conservatism",
+        "stats": {
+            "radi": 50,
+            "econ": 25,
+            "stte": 35,
+            "natn": 55,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Paleolibertarianism",
+        "stats": {
+            "radi": 45,
+            "econ": 20,
+            "stte": 30,
+            "natn": 60,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Reactionary Libertarianism",
+        "stats": {
+            "radi": 10,
+            "econ": 20,
+            "stte": 30,
+            "natn": 65,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Reactionarism",
+        "stats": {
+            "radi": 0,
+            "econ": 45,
+            "stte": 80,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Hoppeanism",
+        "stats": {
+            "radi": 20,
+            "econ": 0,
+            "stte": 5,
+            "natn": 85,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Bolsonarism",
+        "stats": {
+            "radi": 25,
+            "econ": 20,
+            "stte": 75,
+            "natn": 75,
+            "conv": 75
+        }        
+    },
+    {
+        "name": "LGBT Conservatism",
+        "stats": {
+            "radi": 75,
+            "econ": 25,
+            "stte": 55,
+            "natn": 60,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Conservatism",
+        "stats": {
+            "radi": 50,
+            "econ": 25,
+            "stte": 60,
+            "natn": 65,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "National Socialism",
+        "stats": {
+            "radi": 5,
+            "econ": 45,
+            "stte": 100,
+            "natn": 100,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Fascism",
+        "stats": {
+            "radi": 15,
+            "econ": 55,
+            "stte": 90,
+            "natn": 95,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "National Capitalism",
+        "stats": {
+            "radi": 5,
+            "econ": 0,
+            "stte": 95,
+            "natn": 95,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "National Anarchism",
+        "stats": {
+            "radi": 15,
+            "econ": 85,
+            "stte": 0,
+            "natn": 80,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Reactionary Socialism",
+        "stats": {
+            "radi": 0,
+            "econ": 85,
+            "stte": 80,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Reactionary Liberalism",
+        "stats": {
+            "radi": 0,
+            "econ": 45,
+            "stte": 65,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Conservative Liberalism",
+        "stats": {
+            "radi": 50,
+            "econ": 35,
+            "stte": 50,
+            "natn": 60,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "National Liberalism",
+        "stats": {
+            "radi": 45,
+            "econ": 35,
+            "stte": 50,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Anarcho-Conservatism",
+        "stats": {
+            "radi": 15,
+            "econ": 50,
+            "stte": 5,
+            "natn": 85,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "National Libertarianism",
+        "stats": {
+            "radi": 40,
+            "econ": 20,
+            "stte": 30,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "National Conservatism",
+        "stats": {
+            "radi": 45,
+            "econ": 25,
+            "stte": 65,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Neo-Reactionarism",
+        "stats": {
+            "radi": 5,
+            "econ": 15,
+            "stte": 60,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Alt-Right",
+        "stats": {
+            "radi": 5,
+            "econ": 15,
+            "stte": 70,
+            "natn": 80,
+            "conv": 70
+        }        
+    },
+    {
+        "name": "Paternalistic Conservatism",
+        "stats": {
+            "radi": 55,
+            "econ": 55,
+            "stte": 60,
+            "natn": 65,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Conservative Socialism",
+        "stats": {
+            "radi": 50,
+            "econ": 80,
+            "stte": 60,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Paleoconservatism",
+        "stats": {
+            "radi": 35,
+            "econ": 25,
+            "stte": 70,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Neoconservatism",
+        "stats": {
+            "radi": 55,
+            "econ": 30,
+            "stte": 70,
+            "natn": 65,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Mesoconservatism",
+        "stats": {
+            "radi": 45,
+            "econ": 25,
+            "stte": 70,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Classical Conservatism",
+        "stats": {
+            "radi": 30,
+            "econ": 35,
+            "stte": 70,
+            "natn": 65,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Anarcho-Fascism",
+        "stats": {
+            "radi": 15,
+            "econ": 55,
+            "stte": 0,
+            "natn": 80,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Moderate Conservatism",
+        "stats": {
+            "radi": 80,
+            "econ": 35,
+            "stte": 55,
+            "natn": 60,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Liberal Conservatism",
+        "stats": {
+            "radi": 75,
+            "econ": 35,
+            "stte": 55,
+            "natn": 55,
+            "conv": 90
+        }        
+    },
+    {
+        "name": "Rockefeller Republicanism",
+        "stats": {
+            "radi": 75,
+            "econ": 35,
+            "stte": 60,
+            "natn": 65,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Conservative Centrism",
+        "stats": {
+            "radi": 90,
+            "econ": 45,
+            "stte": 55,
+            "natn": 55,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Authoritarian Conservatism",
+        "stats": {
+            "radi": 50,
+            "econ": 25,
+            "stte": 80,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Putinism",
+        "stats": {
+            "radi": 40,
+            "econ": 25,
+            "stte": 80,
+            "natn": 75,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Alt-Lite",
+        "stats": {
+            "radi": 35,
+            "econ": 25,
+            "stte": 65,
+            "natn": 75,
+            "conv": 80
+        }        
+    },
+    {
+        "name": "Christian Conservatism",
+        "stats": {
+            "radi": 40,
+            "econ": 25,
+            "stte": 60,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Christian Libertarianism",
+        "stats": {
+            "radi": 45,
+            "econ": 20,
+            "stte": 35,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Pinochetism",
+        "stats": {
+            "radi": 15,
+            "econ": 10,
+            "stte": 90,
+            "natn": 95,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Christian Socialism",
+        "stats": {
+            "radi": 40,
+            "econ": 70,
+            "stte": 60,
+            "natn": 45,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Christian Communism",
+        "stats": {
+            "radi": 40,
+            "econ": 95,
+            "stte": 60,
+            "natn": 35,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Third Way",
+        "stats": {
+            "radi": 90,
+            "econ": 55,
+            "stte": 50,
+            "natn": 40,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Fourth Theory",
+        "stats": {
+            "radi": 15,
+            "econ": 80,
+            "stte": 75,
+            "natn": 70,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Korwinism",
+        "stats": {
+            "radi": 15,
+            "econ": 5,
+            "stte": 20,
+            "natn": 85,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "National Syndicalism",
+        "stats": {
+            "radi": 10,
+            "econ": 80,
+            "stte": 75,
+            "natn": 80,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Distributism",
+        "stats": {
+            "radi": 40,
+            "econ": 55,
+            "stte": 50,
+            "natn": 50,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Anarcho-Distributism",
+        "stats": {
+            "radi": 40,
+            "econ": 55,
+            "stte": 5,
+            "natn": 50,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Libertarian Distributism",
+        "stats": {
+            "radi": 40,
+            "econ": 45,
+            "stte": 30,
+            "natn": 50,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Christian Democracy",
+        "stats": {
+            "radi": 65,
+            "econ": 50,
+            "stte": 55,
+            "natn": 55,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Anarcho-Nazbol",
+        "stats": {
+            "radi": 5,
+            "econ": 95,
+            "stte": 5,
+            "natn": 90,
+            "conv": 85
+        }        
+    },
+    {
+        "name": "Christian Anarchism",
+        "stats": {
+            "radi": 50,
+            "econ": 50,
+            "stte": 5,
+            "natn": 60,
+            "conv": 85
+        }        
+    }
+]

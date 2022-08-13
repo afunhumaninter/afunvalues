@@ -1,0 +1,1262 @@
+[
+    {
+        "question": "Society should have a strong emphasis on upholding religious and traditional values.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The workers should own the means of production.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Biden won the 2020 primary elections fairly.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "All international dealings should be made for the good of our nation.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 10,
+            "conv": 0
+        }
+    },
+    {
+        "question": "If you have nothing to hide, you have nothing to fear.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Same-sex marriage should be banned by law.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The MMR vaccine is solely and directly responsible for the rise of autism in U.S. children.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "The Enlightenment was a net negative for society",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The French Revolution was bad as a whole.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 5,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The existence of a state is inherently anti-conservative and thus, must be downsized or eliminated.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The world is less than 10,000 years old.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "From each according to his ability, to each according to his need.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The role of the state should be limited to police, courts, and military.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "COVID-19 vaccines contain(ed) tracking microchips.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "The Sandy Hook Elementary School massacre was faked.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "The January 6, 2021 Capitol rioters were primarily Trump supporters.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "The modern conservative movement is too soft and compromised.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Freer markets mean freer people.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Ideally, businesses should strive to be better than their opponents.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "We should be accepting of liberal ideas at times. Not referring to civic liberalism.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "We should have a strict immigration policy.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 5,
+            "natn": 10,
+            "conv": 0
+        }
+    },
+    {
+        "question": "I support vaccine mandates.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0,
+            "conv": 5
+        }
+    },
+    {
+        "question": "Rent should be eliminated in society.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Wealth redistribution is a must for modern society",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "A stateless, classless, moneyless society would be ideal, even if it may not be realistic.",
+        "effect": {
+            "radi": 5,
+            "econ": 5,
+            "stte": -10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The welfare state needs to be downsized or abolished.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "LGBT+ individuals should be looked down upon strongly.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The 1999 Columbine High School massacre had two shooters.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "Abolishing currency is desirable.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Those with a greater ability to pay should receive better healthcare.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Capitalism is irredeemable and needs to be dismantled.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Pornography should be banned.",
+        "effect": {
+            "radi": -5,
+            "econ": 0,
+            "stte": 5,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Earth is flat.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "The United Nations is a net positive for society.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": -10,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Climate change is a hoax.",
+        "effect": {
+            "radi": -5,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "Tariffs on trade should be implemented in order to make all trade deals turn in my nation's favor..",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 5,
+            "natn": 5,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Billion-dollar elites are trying to depopulate the world.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "The coronavirus pandemic was manufactured in a laboratory.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "All land must be public; landlords should not exist.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Gun ownership should be forbidden for those without a valid reason.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Many traditions need to be abandoned.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Police are simply bandits who are there to preserve the status quo.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Big government must intervene to protect consumer interests.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 5,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Government surveillance is a necessary evil.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The nuclear family unit must be preserved.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "An old-style aristocracy or monarchy would be at least somewhat better than the status quo.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Degeneracy is a real problem we should not take lightly.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Animals deserve the same rights as humans.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Preserving traditions should never be done rapidly.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Pride marches should be prohibited.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 5,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "\"Straight pride\" is too homophobic in nature.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Fully eliminating the abortion industry is ideal for me.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Religion is very important in society.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Gender reassignment would ideally either be removed by the community or by the state.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Rockefeller Republicans, Liberal Conservatives, LGBT Conservatives, and similar groups should be welcomed by the conservative movement.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Society was far better in the seventeenth and eighteenth centuries than it is now.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Progressivism is inseperable from capitalism.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Military spending has gone overboard and needs to be reduced.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": -5,
+            "conv": 0
+        }
+    },
+    {
+        "question": "International unions simply erode at a nation's sovereignty.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 10,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Traditional values and individual liberty cannot be combined.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Bring back the crusades.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Workers' unions should be more powerful in modern society.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "\"Lizard people\" rumors are not simply rumors; they are true.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "Evolution is a fact.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "The Boston Marathon massacre was faked.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "The dinosaurs were killed by a large meteor.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "9/11 and WWII were inside jobs.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "Vaccines, GMOs, and fluorides in water in general are depopulation tools.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "Trails caused by planes are laced with harmful chemicals.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "Biden won the 2020 Democratic caucuses fairly.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "Bush won the 2000 elections fairly.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "Modern famous politicians and milti-billionaires are involved in secret child-rape rings.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "The economy is inherently exploitative against the working class; thus, the system is bad.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "At least one government bureaucracy is okay.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Without government, chaos would ensue.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "People should be able to do whatever they want as long as they do not directly harm another person.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "A state is needed to effectively implement conservatism.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Businesses and individuals that support progressivism should be economically punished in some form, either by the community or by the state.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Reactionaries and extreme conservatives miss the whole point of conservatism.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Bring back Prohibition.",
+        "effect": {
+            "radi": -5,
+            "econ": 0,
+            "stte": 5,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "A moderate progressive would be better than a conservative gone overboard.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Anarcho-Capitalism is a desirable goal.",
+        "effect": {
+            "radi": 0,
+            "econ": 5,
+            "stte": -10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "\"To each his own\" is a principle we should abide by.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Absolute freedom in society would be the ideal.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Freedom of speech, freedom of religion, freedom of the press, and freedom of assembly are vital.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Conservatives should disavow fanatics and anyone who takes conservatism very far.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "\"All men are created equal\" should be a principle we as a society should abide by.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The freer the market, the more innovation is made.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Quality education is a right of all people.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Legalize physician-assisted suicide.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The assassination of John F. Kennedy was a government plot.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "Polio and smallpox were eliminated by their resprective vaccines.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "We need a strong leader who is willing to do what it takes to destroy the radical ideologies destroying our traditional values.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "People should feel open to sexually express themselves within the conservative movement.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Racism and sexism should be disavowed by the conservative movement.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Epstein killed himself.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "Many rich people earn their wealth rightfully, so they should be allowed to keep it.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Conservatives need to be less anti-LGBT than they are now.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Abolish all national borders.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": -10,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Regional unions, such as the European Union, are for the betterment of the nation.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": -10,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Donald Trump should have been discredited by the GOP.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Conservatives should try to be more accepting of those who are culturally centrist.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Ultraconservatives and reactionaries do nothing but discredit conservatism.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The market can regulate itself efficiently.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Abolish the IRS.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "My nation's interests always come first.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 10,
+            "conv": 0
+        }
+    },
+    {
+        "question": "We should have open borders, if any.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": -10,
+            "conv": 0
+        }
+    },
+    {
+        "question": "We should work to discredit conspiracy theories.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "The 1969 moon landing was genuine.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "Free-market capitalism is necessary in the conservative movement.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "I am willing to side with my nation even if it condradicts my own values.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 10,
+            "conv": 0
+        }
+    },
+    {
+        "question": "We should try to make alliances with other nations even if it may harm national sovereignty.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": -10,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Free association in the economy is best.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "The profit motive should not be suppressed.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Private property is a bulwark is society.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "I believe in UFO sightings.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "Bigfoot and Loch Ness are fictional.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "I would not mind mingling with cultures from other countries, as long as they weren't progressive cultures.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": -10,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Anarchism and conservatism are incompatible for the most part.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "I'd rather experience anarchy than a full-blown military dictatorship.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "I support taxing harmful addictive substances very significantly more than normal items.",
+        "effect": {
+            "radi": -5,
+            "econ": 5,
+            "stte": 5,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "If they are conservative, tough laws and a strict court system would be good for society.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0,
+            "conv": 0
+        }
+    },
+    {
+        "question": "Folk medicine, herbal medicine, and homeopathy are more reliable than conventional medicines.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": -10
+        }
+    },
+    {
+        "question": "Astrology and tarot are pure quackery.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "The mainstream media is reliable as it is.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    },
+    {
+        "question": "All objects with mass attract, even if the attraction is extremely small.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0,
+            "conv": 10
+        }
+    }
+]
